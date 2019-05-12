@@ -1,9 +1,10 @@
 {
   "name": "visa-react",
   "version": "0.1.0",
-  "homepage" : "https://lmyesther.github.io/visa-react/",
+  "homepage": "https://lmyesther.github.io/visa-react/",
   "private": true,
   "dependencies": {
+    "eslint-plugin-flowtype": "^3.8.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
