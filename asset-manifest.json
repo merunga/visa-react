@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7bbbd9f.chunk.css",
-    "main.js": "/static/js/main.d9241dba.chunk.js",
-    "main.js.map": "/static/js/main.d9241dba.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.bbeb7fc2.chunk.js": "/static/js/2.bbeb7fc2.chunk.js",
-    "static/js/2.bbeb7fc2.chunk.js.map": "/static/js/2.bbeb7fc2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c6a2db167a55040e9af4a601dd706293.js": "/precache-manifest.c6a2db167a55040e9af4a601dd706293.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d7bbbd9f.chunk.css.map": "/static/css/main.d7bbbd9f.chunk.css.map"
+    "main.css": "/visa-react/static/css/main.d7bbbd9f.chunk.css",
+    "main.js": "/visa-react/static/js/main.76ece8e3.chunk.js",
+    "main.js.map": "/visa-react/static/js/main.76ece8e3.chunk.js.map",
+    "runtime~main.js": "/visa-react/static/js/runtime~main.0f3802e7.js",
+    "runtime~main.js.map": "/visa-react/static/js/runtime~main.0f3802e7.js.map",
+    "static/js/2.db2ce8a4.chunk.js": "/visa-react/static/js/2.db2ce8a4.chunk.js",
+    "static/js/2.db2ce8a4.chunk.js.map": "/visa-react/static/js/2.db2ce8a4.chunk.js.map",
+    "index.html": "/visa-react/index.html",
+    "precache-manifest.8d6eff3f31856ed6f870eec3917ee7a0.js": "/visa-react/precache-manifest.8d6eff3f31856ed6f870eec3917ee7a0.js",
+    "service-worker.js": "/visa-react/service-worker.js",
+    "static/css/main.d7bbbd9f.chunk.css.map": "/visa-react/static/css/main.d7bbbd9f.chunk.css.map"
   }
 }
