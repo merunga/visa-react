@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2570e30b345dde5d2cf833ae85de014",
+    "revision": "dd8e6b566cc0134a4b458c9dc4c12141",
     "url": "/visa-react/index.html"
   },
   {
-    "revision": "4a6e749a8a24b828c5e1",
+    "revision": "fc244c4004c11b215e8f",
     "url": "/visa-react/static/css/main.d7bbbd9f.chunk.css"
   },
   {
-    "revision": "56a6598381f5d28fe34d",
-    "url": "/visa-react/static/js/2.90b60223.chunk.js"
+    "revision": "62399ed5a142880cf16a",
+    "url": "/visa-react/static/js/2.b1062137.chunk.js"
   },
   {
-    "revision": "4a6e749a8a24b828c5e1",
-    "url": "/visa-react/static/js/main.fa5e8b60.chunk.js"
+    "revision": "fc244c4004c11b215e8f",
+    "url": "/visa-react/static/js/main.d97861b5.chunk.js"
   },
   {
     "revision": "b7a9fc7acfb917930e84",
